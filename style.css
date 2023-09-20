@@ -145,6 +145,9 @@ footer .list-section a {
     .cta p {
         padding-right: 110px;
     }
+    #faq  p {
+        margin-bottom: 50px;
+    }
 }
 /* mengatur layouts jika device tablet */
 @media (max-width: 768px) {
