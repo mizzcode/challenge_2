@@ -137,6 +137,10 @@ a {
     border-radius: 10px;
 }
 
+#getting-started h2 {
+    margin-bottom: 2rem;
+}
+
 #faq {
     margin-top: 6rem;
 }
