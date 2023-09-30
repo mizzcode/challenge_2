@@ -158,8 +158,16 @@ footer {
     margin-top: 6rem;
 }
 
+@media only screen and (max-width: 768px) {
+    .rater-text img {
+        padding-top: 2rem;
+        padding-bottom: 1rem;
+    }
+}
+
 @media only screen and (min-width: 768px) {
     .rater-img {
+        margin-top: 2rem;
         margin-bottom: 0;
         width: 25%;
     }
