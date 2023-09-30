@@ -1,0 +1,161 @@
+body {
+    font-family: Helvetica, sans-serif;
+}
+
+.bg-blue {
+    background-color: #f1f3ff;
+}
+
+.navbar {
+    height: 80px;
+}
+
+.logo {
+    padding: 20px;
+    width: 7rem;
+    background-color: #0D28A6;
+}
+
+.nav-link {
+    border-radius: 4px;
+}
+
+.nav-link:hover {
+    transition: all 0.8s;
+    color: white !important;
+    background-color: #0D28A6;
+}
+
+.btn {
+    border-radius: 4px;
+    background-color: #5CB85F;
+}
+
+.btn a {
+    color: #fff !important;
+}
+
+.btn:hover {
+    transition: all 0.6s;
+    box-shadow: 2px 4px 0px #0113d4;
+}
+
+.offcanvas-body ul {
+    list-style-type: none;
+    padding-inline: 0;
+}
+
+.offcanvas-button {
+    border: none;
+}
+
+main {
+    margin-top: 5rem;
+}
+
+#cover-img {
+    margin-top: 2rem;
+    padding-right: 0;
+    display: flex;
+    align-items: flex-end;
+}
+
+a {
+    color: black !important;
+    text-decoration: none !important;
+}
+
+#our-services {
+    margin-top: 6rem;
+}
+
+.our-service-img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#our-services ul {
+    padding-left: 0;
+}
+
+#our-services li {
+    list-style-type: none;
+    padding-inline: 40px;
+    background: url("../assets/list_bullet.png") left;
+    background-repeat: no-repeat;
+    line-height: 2.5rem;
+}
+
+#why-us {
+    margin-top: 6rem;
+}
+
+#testimonial {
+    margin-top: 6rem;
+}
+
+.carousel-item {
+    width: 100%;
+    background-color: #f1f3ff;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+#testimonial p {
+    margin-top: 1rem;
+}
+
+.prev-button {
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 1rem 0.5rem;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.next-button {
+    background-color: #5CB85F;
+    border: 1px solid #5CB85F;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 1rem 0.5rem;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+#getting-started {
+    margin-top: 6rem;
+    background-color: #0D28A6;
+    color: white;
+    border-radius: 10px;
+}
+
+#faq {
+    margin-top: 6rem;
+}
+
+.accordion-item {
+    border: 1px solid rgb(216, 214, 214) !important;
+    margin-bottom: 1rem;
+}
+
+footer {
+    margin-top: 6rem;
+}
+
+@media only screen and (min-width: 768px) {
+    .rater-img {
+        margin-bottom: 0;
+        width: 25%;
+    }
+    .rater-text {
+        width: 75%;
+    }
+}
