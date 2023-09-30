@@ -82,7 +82,7 @@ a {
 #our-services li {
     list-style-type: none;
     padding-inline: 40px;
-    background: url("../assets/list_bullet.png") left;
+    background: url("../list_bullet.png") left;
     background-repeat: no-repeat;
     line-height: 2.5rem;
 }
