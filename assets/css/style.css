@@ -28,7 +28,7 @@ body {
 
 .btn {
     border-radius: 4px;
-    background-color: #5CB85F;
+    background-color: #5CB85F !important;
 }
 
 .btn a {
