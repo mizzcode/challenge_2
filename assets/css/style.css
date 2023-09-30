@@ -141,6 +141,10 @@ a {
     margin-top: 6rem;
 }
 
+#faq p {
+    margin-block: 2rem;
+}
+
 .accordion-item {
     border: 1px solid rgb(216, 214, 214) !important;
     margin-bottom: 1rem;
