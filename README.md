@@ -1,7 +1,10 @@
 # Car Rental
 A challenge slicing design landing page on Figma from Binar x BCA
 
-![image](https://github.com/mizzcode/challenge_2/assets/101040281/c9bbbc40-e902-4685-b67a-bcb9f73d818c)
+![image](https://github.com/mizzcode/challenge_2/assets/101040281/452762b7-007c-4819-b249-5bda774c8ae4)
+
+
+
 <hr>
 
 ## Installation
