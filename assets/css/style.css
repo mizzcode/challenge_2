@@ -47,6 +47,7 @@ body {
 
 .offcanvas-button {
     border: none;
+    background-color: transparent;
 }
 
 main {
